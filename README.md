@@ -272,6 +272,12 @@ Llibreries per a realitzar una utenticació basada en tokens:
 
 > Sense Autor. (Sense Data). ¿Qué es la autenticación basada en tokens?. Keeper. Recuperat el 30/3/2025 de https://www.keepersecurity.com/es_ES/resources/glossary/what-is-token-based-authentication/
 
+> Nattfrosten. (13/9/2012). Hashing a string with SHA256. StackOverflow. Recuperat el 30/3/2025 de https://stackoverflow.com/questions/12416249/hashing-a-string-with-sha256
+
+> dotnet-bot i richlander. (15/3/2018). Sense Títol. Github. Recuperat el 30/3/2025 de https://github.com/microsoft/referencesource/blob/master/mscorlib/system/security/cryptography/rsa.cs
+
+> Kashif Soofi. (8/8/2019). RSA Encryption In C# using Microsoft Cryptography Library. Kashif's Rumbling. Recuperat el 30/3/2025 de https://kashifsoofi.github.io/cryptography/rsa-encryption-in-csharp-using-microsoft-cryptography/
+
 > **Escriu l’impacte que tenen a la seguretat i quins danys pot arribar a fer un atac en aquesta vulnerabilitat. A07:2021 – Falles d'identificació i autenticació**
 >
 > Impacte en la seguretat i danys potencials d’un atac a la vulnerabilitat A07:2021 – Falles d'identificació i autenticació
